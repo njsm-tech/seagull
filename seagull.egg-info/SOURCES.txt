@@ -1,0 +1,7 @@
+README.md
+setup.py
+seagull.egg-info/PKG-INFO
+seagull.egg-info/SOURCES.txt
+seagull.egg-info/dependency_links.txt
+seagull.egg-info/requires.txt
+seagull.egg-info/top_level.txt
