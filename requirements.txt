@@ -5,3 +5,5 @@ torchvision
 tqdm
 pillow
 matplotlib
+datasets
+transformers
